@@ -1,2 +1,7 @@
-temp.*
-Project/temp.ipynb
+*.md
+output_image
+SIFT_FX
+temp.ipynb
+!.gitignore
+!README.md
+!*.pdf
